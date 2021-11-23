@@ -11,7 +11,7 @@ or <a href="mailto:itsarjn@gmail.com"><b>email</b></a> me.
 
 </div>
 <br>
-I'm a techie by passion and a code-blooded Engineer by profession. <br>
+I'm a techie by passion and a code-blooded Engineer by profession. <br> <br> <br>
   
 <div align="center">
 
