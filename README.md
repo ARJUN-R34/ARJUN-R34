@@ -11,7 +11,7 @@ Welcome to my GitHub profile <br><br>
 I am a web3/web2 developer <br><br>
 A techie by passion and a code-blooded Engineer by profession. <br> <br> <br>
 
-- Working with the core team over at [GetSafle](https://getsafle.com)
+- Working with the core team over at [GetSafle](https://getsafle.com) :fire:
 - Experienced in working on Ethereum, Bitcoin, Tezos, Solana, BSC, Polygon, Tron, etc. 
 - Worked on backend systems, open source libraries and also on EVM smart contracts.
 - Happy to connect over at [LinkedIn](https://www.linkedin.com/in/arjun-sasikumar).
@@ -36,6 +36,14 @@ A techie by passion and a code-blooded Engineer by profession. <br> <br> <br>
   
 <h3>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=arjun-r34&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
+</h3>
+  
+<br>
+<br>
+  
+
+<h3>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-r34&theme=dark&background=000000">
 </h3>
 
 
