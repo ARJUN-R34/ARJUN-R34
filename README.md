@@ -20,11 +20,24 @@ A techie by passion and a code-blooded Engineer by profession. <br> <br> <br>
   
 <div align="center">
 
+<h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=arjun-r34&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="arjun-r34's Github Stats">
+<h3>
+
+<br>
+<br>
+  
+<h3>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-r34&layout=compact&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
+</h3>
+  
+<br>
+<br>
   
 <h3>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=arjun-r34&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
 </h3>
+
 
 </br>
 </br>
