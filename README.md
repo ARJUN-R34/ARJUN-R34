@@ -69,7 +69,7 @@ or <a href="mailto:itsarjn@gmail.com"><b>email</b></a> me.
 
 Show some ❤️ by tipping some <br> <br>
 <img height="20" style="cursor: pointer" src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=002"> - 1DKLeznVWHmodfqaQZLoA38AJ2CEBZ6gr6 <br> <br>
-<img height="20" style="cursor: pointer" src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=002"> - 0x2980D624Ed101b5639cb91EF2EbD25674D8F4850 <br><br>
+<img height="20" style="cursor: pointer" src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=002"> - itsarjn.eth (0x2723a2756ecb99b3b50f239782876fb595728ac0) <br><br>
 
 
 ## Nice To See You! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=arjun-r34.arjun-r34&style=flat-square&color=0088cc)
