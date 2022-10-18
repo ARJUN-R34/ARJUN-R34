@@ -13,7 +13,7 @@ A techie by passion and a code-blooded Engineer by profession. <br> <br> <br>
 
 - Working with the core team over at [GetSafle](https://getsafle.com) :fire:
 - Experienced in working on Ethereum, Bitcoin, Tezos, Solana, BSC, Polygon, Tron, etc. 
-- Worked on backend systems, open source libraries and also on EVM smart contracts.
+- Worked on backend microservices and APIs, open source libraries and also on EVM smart contracts.
 - Happy to connect over at [LinkedIn](https://www.linkedin.com/in/arjun-sasikumar).
 - Or drop an email over at itsarjn@gmail.com
 <br><br><br>
