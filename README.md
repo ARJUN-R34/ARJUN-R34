@@ -4,8 +4,6 @@
 
 <div align="center">
 
-Welcome to my GitHub profile <br><br>
-
 </div>
 <br>
 I am a web3/web2 developer <br><br>
