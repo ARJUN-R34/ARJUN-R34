@@ -69,5 +69,9 @@ Show some ❤️ by tipping some <br> <br>
 <img height="20" style="cursor: pointer" src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=002"> - 1DKLeznVWHmodfqaQZLoA38AJ2CEBZ6gr6 <br> <br>
 <img height="20" style="cursor: pointer" src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=002"> - itsarjn.eth (0x2723a2756ecb99b3b50f239782876fb595728ac0) <br><br>
 
+<p align="center">
+  <img src="https://github.com/OjusWiZard/OjusWiZard/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 
 ## Nice To See You! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=arjun-r34.arjun-r34&style=flat-square&color=0088cc)
