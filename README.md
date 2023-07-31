@@ -14,7 +14,7 @@ A techie by passion and a code-blooded Engineer by profession. <br> <br> <br>
 - Experienced in working on Ethereum, Bitcoin, Tezos, Solana, BSC, Polygon, Tron, etc. 
 - MERN stack Blockchain developer
 - Happy to connect over at [LinkedIn](https://www.linkedin.com/in/arjun-sasikumar).
-- Check out my [web3site]https://itsarjn.eth.limo)
+- Check out my [web3site](https://itsarjn.eth.limo)
 - Or drop an email over at itsarjn@gmail.com
 <br><br><br>
   
