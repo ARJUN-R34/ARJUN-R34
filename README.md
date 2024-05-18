@@ -2,10 +2,18 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚜/>!</h2>
 </div>
 
+![profile banner](assets/bg.gif)
+
+<h4 align="left">Visitors count 👀</h4>
+<p align="left"><img src="https://profile-counter.glitch.me/{arjun-r34}/count.svg" alt="Arjun::Visitors Count" /></p>
+
 <div align="center">
 
 </div>
 <br>
+Code blooded <web3> degen by profession, decentralization maximalist by ideology.🔥
+
+Building epic products.. :glyph: 
 I am a web3/web2 developer with 4+ years of experience <br><br>
 A techie by passion and a code-blooded Engineer by profession. <br> <br> <br>
 
