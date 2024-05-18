@@ -7,6 +7,7 @@
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arjun-r34&style=flat-square&color=blue)
+[![wakatime](https://wakatime.com/badge/user/2820b844-309a-4e20-959e-7f67e9d5a576.svg)](https://wakatime.com/@2820b844-309a-4e20-959e-7f67e9d5a576)
 
 ## 🚀 About Me
   <p> I am a code-blooded web3 degen dev by profession, a decentralization maximalist by ideology 🔥 </p>
