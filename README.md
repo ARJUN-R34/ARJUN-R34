@@ -48,20 +48,20 @@
 <br>
 
 ## 📈 GitHub Stats
-![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjun-r34&show_icons=true&theme=radical)
+![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjun-r34&show_icons=true&theme=tokyonight)
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjun-r34&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjun-r34&theme=tokyonight)
 
 <br>
 <hr>
 <br>
 
 ## 🔥 GitHub Activity
-![Arjun's GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjun-r34&theme=radical&hide_border=true)
+![Arjun's GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjun-r34&theme=tokyonight&hide_border=true)
 
 <br>
 <br>
