@@ -1,59 +1,41 @@
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚜/>!</h2>
-</div>
-
 ![profile banner](assets/bg.gif)
 
-<h4 align="left">Visitors count 👀</h4>
-<p align="left"><img src="https://profile-counter.glitch.me/{arjun-r34}/count.svg" alt="Arjun::Visitors Count" /></p>
+
+<div align="center">
+<h2><p>Hey there, fellow <𝚍𝚎𝚟𝚜/> 👋🏼. </p> 
+<br>
+<p> I am Arjun! </p> </h2>
+</div>
 
 <div align="center">
 
 </div>
 <br>
-Code blooded <web3> degen by profession, decentralization maximalist by ideology.🔥
 
-Building epic products.. :glyph: 
-I am a web3/web2 developer with 4+ years of experience <br><br>
-A techie by passion and a code-blooded Engineer by profession. <br> <br> <br>
-
-- Ex [GetSafle](https://getsafle.com)
-- Working on building [Pay3](https://pay3.money) :fire:
-- Experienced in working on Ethereum, Bitcoin, Tezos, Solana, BSC, Polygon, Tron, etc. 
-- MERN stack Blockchain developer
-- Happy to connect over at [LinkedIn](https://www.linkedin.com/in/arjun-sasikumar).
-- Check out my [web3site](https://itsarjn.eth.limo)
-- Or drop an email over at itsarjn@gmail.com
-<br><br><br>
-  
 <div align="center">
+  <p> I am a code-blooded web3 degen dev by profession, a decentralization maximalist by ideology 🔥 </p>
 
-<h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjun-r34&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="arjun-r34's Github Stats">
-<h3>
+  <p> Building epic products for over half a decade <img height="15" style="cursor: pointer" src="assets/eth.png"> </p>
+</div>
 
 <br>
 <br>
-  
-<h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-r34&layout=compact&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
-</h3>
-  
-<br>
-<br>
-  
-<h3>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=arjun-r34&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
-</h3>
-  
-<br>
-<br>
-  
 
-<h3>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-r34&theme=dark&background=000000">
-</h3>
+<div align="center">
+  <h3>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=arjun-r34&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="arjun-r34's Github Stats">
+  <h3>
+  
+    
+  <h3>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-r34&layout=compact&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
+  </h3>
 
+</div>
+
+<div align="center" padding="50px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-r34&theme=dark&background=000000">
+</div>
 
 </br>
 </br>
@@ -72,6 +54,9 @@ or <a href="mailto:itsarjn@gmail.com"><b>email</b></a> me.
 <a href="https://www.linkedin.com/in/arjun-sasikumar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/its.arjn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/itsarjn/" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+
+<h4 align="left">Visitors count 👀</h4>
+<p align="left"><img src="https://profile-counter.glitch.me/{arjun-r34}/count.svg" alt="Arjun::Visitors Count" /></p>
 
 </div>
 
